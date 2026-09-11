@@ -1,2 +1,0 @@
-# zubeneschamali
-short url service
